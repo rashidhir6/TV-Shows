@@ -5,8 +5,8 @@ https://gesis.mybinder.org/binder/v2/gh/rashidhir6/TV-Shows/b48c73eac754d9d15a2f
 It is a project available on Datacamp, it involves loading, cleaning and exploring the datasets pertaining to Super-Bowl; a popular game show.
 Answers to the following questions are found out through the analysis of the information represented in the datasets.
 
-*What are the most extreme game outcomes?
-*How does the game affect television viewership?
-*How have viewership, TV ratings, and ad cost evolved over time?
-*Who are the most prolific musicians in terms of halftime show performances?
+- outcomes of the most extreme game ?
+- How is the  television viewership affected by this game  ?
+- How have viewership, TV ratings, and ad cost evolved over time?
+- Who are the most prolific musicians in terms of halftime show performances?
 
