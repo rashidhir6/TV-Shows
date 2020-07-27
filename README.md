@@ -10,7 +10,7 @@ Answers to the following questions are found out through the analysis of the inf
 - How have viewership, TV ratings, and ad cost evolved over time?
 - Who are the most prolific musicians in terms of halftime show performances?
 ## Libraries Used
--Pandas
--Matplotlib
--Seaborn
+- Pandas
+- Matplotlib
+- Seaborn
 
